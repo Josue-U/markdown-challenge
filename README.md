@@ -6,7 +6,7 @@
 
 |Brirthday | Favorite color | Favorite food | Pinnapple on pizza|
 |----------| ---------------| --------------| ------------------|
-|20/05/1994| RED            | YES           | Blasphemy         |
+|20/05/1994| GREEN          | YES           | Blasphemy         |
 
 ### Hobbies
 
